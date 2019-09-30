@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/hy-Yang/hy-Yang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Haoyu Yang
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - Email: yang.haoyu@wehi.edu.au
+ - Github：https://github.com/hy-Yang
 
-### Markdown
+# Education 
+## Master of Science (Bioinformatics) 
+- University of Melbourne 
+- March, 2019-now 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Bachelor of Biomedicine (Honours)  
+- University of Melbourne 
+- March.2015 – December.2018
+- **Thesis**: Novel drug combinations targeting rDNA transcription and epigenetic/transcriptional regulators to treat multiple myeloma
+- **supervisor:** Gretchen Poortinga 
 
-```markdown
-Syntax highlighted code block
+# Research Experiences
 
-# Header 1
-## Header 2
-### Header 3
+## Peter MacCallum Cancer Centre - Research Honours Research
+February.2018-December.2018 
+- Project: Novel drug combinations targeting rDNA transcription and epigenetic/transcriptional regulators to treat multiple myeloma  
+- Demonstrated critical abilities in research including critical thinking, data analysis, problem solving, team-work, presentation skills in both informal lab meetings and formal symposiums, time management and self-learning skills.
+- Work eﬀectively under pressure and to meet deadlines + Comprehend new material and subject matter quickly 
+- Work eﬀectively with limited supervision
 
-- Bulleted
-- List
+## The Florey Institute of Neuroscience - Research Summer research internship
+January.2017-March.2017
+- Performed mice behavior experiments, including X/Y mazes and Rotarod, under supervision 
+- Gained knowledge about P2X7 receptor, which is the focus of this lab, by reading scientiﬁc articles and communicating with researchers in the laboratory
 
-1. Numbered
-2. List
+## TECHNICAL SKILLS
+- Microsoft Oﬃce (Word, Excel, PowerPoint and Outlook) - Advance
+- Adobe Illustrator 
+- Programming Languages: Python and R
+- SQL
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hy-Yang/hy-Yang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
